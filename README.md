@@ -7,7 +7,7 @@ Como o teste não deixava claro o que utilizar como stack, eu fiz de duas formas
 
 Você pode encontrar o repositório da versão sem TS aqui:
 
-**S/ TS:** https://github.com/gabyssbarboza/b8-challenge
+**S/ TS:** https://github.com/gabyssbarboza/b8-challenge <br/>
 **Link preview**: https://trusting-lamport-ab7749.netlify.app/
 
 ## Case 💬
