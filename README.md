@@ -1,9 +1,6 @@
-# b8one - product layout 🤩
+Product Card 🤩
 
 **Link preview**: https://zealous-yalow-92ad15.netlify.app/
-
-Projeto feito como teste técnico para a b8one.
-Como o teste não deixava claro o que utilizar como stack, eu fiz de duas formas: com e sem typescript.
 
 Você pode encontrar o repositório da versão sem TS aqui:
 
@@ -14,7 +11,7 @@ Você pode encontrar o repositório da versão sem TS aqui:
 
 _Descrição do caso_
 
-Realizar a criação do layout disponibilizado, respeitando as regras impostas no teste.
+Realizar a criação de um product card.
 
 ## Tech Stack 🦾
 
